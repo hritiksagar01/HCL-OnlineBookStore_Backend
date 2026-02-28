@@ -1,0 +1,45 @@
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.csproj.AssemblyReference.cache
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.AssemblyInfoInputs.cache
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.AssemblyInfo.cs
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.csproj.CoreCompileInputs.cache
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\appsettings.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Online BookStore  System.staticwebassets.endpoints.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Online BookStore  System.exe
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Online BookStore  System.deps.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Online BookStore  System.runtimeconfig.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Online BookStore  System.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Online BookStore  System.pdb
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\BCrypt.Net-Next.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Npgsql.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\scopedcss\bundle\Online BookStore  System.styles.css
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online B.65EF0F0A.Up2Date
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\refint\Online BookStore  System.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.pdb
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.genruntimeconfig.cache
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\ref\Online BookStore  System.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
