@@ -43,3 +43,4 @@ C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\
 C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hriti\RiderProjects\WebApplication1\Online BookStore  System\obj\Debug\net10.0\Online BookStore  System.sourcelink.json
